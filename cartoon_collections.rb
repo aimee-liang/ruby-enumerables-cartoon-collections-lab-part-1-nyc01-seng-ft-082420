@@ -14,5 +14,6 @@ def list_dwarves(array)
   vector = index + 1
   array.each_with_index do |element, index|
     print "Vector. element"
+  end
   vector += 1
 end
