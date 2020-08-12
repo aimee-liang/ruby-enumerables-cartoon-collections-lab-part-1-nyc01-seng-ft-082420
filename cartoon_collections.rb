@@ -15,3 +15,4 @@ array.each_with_index do |element, index|
   indexplusone = index + 1
   puts "#{indexplusone}.element"
 end
+end
