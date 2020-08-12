@@ -17,3 +17,4 @@ def list_dwarves(array)
   end
   vector += 1
 end
+end
